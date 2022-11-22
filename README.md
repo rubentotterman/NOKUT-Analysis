@@ -1,7 +1,7 @@
 # PGR110-Visual-Analytics
-Visual Analytics exam
+Visual Analytics project with TABLEAU
 
-My solution to the visual analytics exam, solved in Tableau with two large datasets as a source.
+Solved in Tableau with two large datasets as a source.
 
 I analyzed the dataset which was provides by NOKUT. NOKUT conducts a national student survey(studiebarometeret) on study quality on behalf of the Ministry of Education and Research. The main object of the analysis is to highlight the University of Kristiania and how it is doing compared to other universities and colleges on the various quality dimensions.
 
