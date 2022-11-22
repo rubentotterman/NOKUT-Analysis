@@ -1,4 +1,4 @@
-# PGR110-Visual-Analytics
+Visual-Analytics
 Visual Analytics project with TABLEAU
 
 Solved in Tableau with two large datasets as a source.
